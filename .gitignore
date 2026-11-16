@@ -1,0 +1,6 @@
+# Prodotti della compilazione
+*.o
+*.elf
+*.prx
+PARAM.SFO
+/EBOOT.PBP
