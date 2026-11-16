@@ -4,6 +4,10 @@ Homebrew per PSP che verifica il funzionamento dello **stick analogico** e dei *
 Utile per capire se un problema di controlli dipende dall'hardware (stick consumato,
 sporco o scollegato) oppure dalle impostazioni di un gioco.
 
+![Schermata di PSP Analog Test: a sinistra valori dello stick, diagnosi e stato dei tasti, a destra la traccia di tutte le posizioni raggiunte dallo stick](docs/schermata.png)
+
+*Fine del test con uno stick in buono stato. Schermata ottenuta eseguendo il codice su PC, con input simulati.*
+
 ## Cosa mostra
 
 - Valori grezzi di **LX/LY** (da 0 a 255, centro a 128) e scarto dal centro
